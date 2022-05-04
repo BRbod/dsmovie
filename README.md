@@ -17,6 +17,8 @@
 <p>
   
 - TypeScript
-- ReactJS 
+- ReactJS
+- HTML
+- CSS
 	
 </center>
